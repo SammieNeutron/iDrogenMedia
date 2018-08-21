@@ -86,13 +86,13 @@
 
 .round-icon {
     display: inline-block;
-    width: 150px;
-    height: 150px;
+    width: 15em;
+    height: 15em;
     margin: 3px;
     cursor: pointer;
-    border-radius: 150px;
+    border-radius: 15em;
     margin-bottom: 15px;
-    padding: 10px !important;
+    padding: 2.5em !important;
     text-align: center;
     box-sizing: border-box;
     box-shadow: 5px 0px 5px lightgray ;
@@ -107,7 +107,7 @@
 
 .orange-icon {
     color: orange !important;
-    border: 2px solid orange;
+    border: 1px solid orange;
 }
 
 .orange-icon:hover {
@@ -117,7 +117,7 @@
 
 .blue-icon {
     color: #0070BA !important;
-    border: 2px solid #0070BA;
+    border: 1px solid #0070BA;
 }
 
 .blue-icon:hover {
@@ -127,7 +127,7 @@
 
 .pink-icon {
     color: #BF3A6B !important;
-    border: 2px solid #BF3A6B;
+    border: 1px solid #BF3A6B;
 }
 
 .pink-icon:hover {
@@ -137,7 +137,7 @@
 
 .gray-icon {
     color: #6E7788 !important;
-    border: 2px solid #6E7788;
+    border: 1px solid #6E7788;
 }
 
 .gray-icon:hover {
